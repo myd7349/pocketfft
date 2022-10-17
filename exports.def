@@ -1,0 +1,11 @@
+EXPORTS 
+	make_cfft_plan
+	destroy_cfft_plan
+	cfft_backward
+	cfft_forward
+	cfft_length
+	make_rfft_plan
+	destroy_rfft_plan
+	rfft_backward
+	rfft_forward
+	rfft_length
